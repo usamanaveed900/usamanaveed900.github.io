@@ -1,0 +1,23 @@
+title: "Muhammad Usama Naveed"
+description: "Software Engineer | Data Scientist | Machine Learning & Embedded Systems"
+theme: minima
+author: "Muhammad Usama Naveed"
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - projects.md
+  - experience.md
+  - blog.md
+  - contact.md
+
+# Social icons
+minima:
+  social_links:
+    github: yourusername
+    linkedin: your-linkedin-id
+    email: usamanaveed900@gmail.com
+sass:
+  style: compressed
