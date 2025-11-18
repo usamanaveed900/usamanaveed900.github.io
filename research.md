@@ -10,4 +10,3 @@ permalink: /research/
 - Deep learning pipelines (CNNs, DNNs, transfer learning)
 - Feature extraction, PCA, dimensionality reduction
 - Explainability and interpretability in medical AI
-- Embedded systems and real-time defense software

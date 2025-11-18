@@ -1,5 +1,5 @@
-title: "Muhammad Usama Naveed"
-description: "Software Engineer | Data Scientist | Machine Learning & Embedded Systems"
+# title: "Muhammad Usama Naveed"
+description: "Software Engineer | Data Scientist"
 theme: minima
 author: "Muhammad Usama Naveed"
 markdown: kramdown
@@ -7,17 +7,21 @@ markdown: kramdown
 # Navigation
 header_pages:
   - index.md
+  - experience.md
+  - publications.md
   - research.md
   - projects.md
-  - experience.md
   - blog.md
   - contact.md
 
 # Social icons
 minima:
   social_links:
-    github: yourusername
-    linkedin: your-linkedin-id
     email: usamanaveed900@gmail.com
+    github: https://github.com/usamanaveed900
+    linkedin: https://linkedin.com/in/usama-naveed
+    google_scholar: https://scholar.google.com/citations?user=EUNrkkQAAAAJ&hl=en
+    orcid: https://orcid.org/0009-0007-4791-0369
+    
 sass:
   style: compressed
