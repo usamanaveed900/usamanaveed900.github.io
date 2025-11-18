@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Research"
+title: "Research Interest"
 permalink: /research/
 ---
-
-# Research Interests
 
 - Histopathological image classification (LC25000 dataset)
 - Deep learning pipelines (CNNs, DNNs, transfer learning)

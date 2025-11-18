@@ -4,10 +4,9 @@ title: "Experience"
 permalink: /experience/
 ---
 
-# Experience
-
 ## Software Engineer
-### Heavy Industries Taxila _(22 Feb 2024 – Present)_
+### Heavy Industries Taxila 
+_(22 Feb 2024 – Present)_
 
 -	Collaborating in the development and design of Fire Control Computers for artillery systems, working with cross functional teams from South Africa and Saudi Arabia.
 -	Completed a one-week advanced external ballistics training in South Africa.
@@ -18,7 +17,9 @@ permalink: /experience/
 
 ---
 
-## Freelance Software & ML Engineer _(2022 – 2023)_
+## Freelance Software & ML Engineer 
+_(2022 – 2023)_
+
 -	Delivered custom software solutions for international clients via freelancing platforms.
 -	Developed applications using Python, PyQt5, Django, Flask, Tkinter, FastAPI, and other frameworks.
 -	Designed and deployed machine learning, data science, and deep learning solutions across various domains.
@@ -26,7 +27,9 @@ permalink: /experience/
 ---
 
 ## Python Developer
-### ZS Ventures _(Apr – Oct 2021)_
+### ZS Ventures 
+_(Apr – Oct 2021)_
+
 -	Developed e-commerce platforms using the Django framework.
 -	Created and integrated trained ML models into production environments.
 -	Built custom admin panels for managing e-commerce operations.
@@ -34,7 +37,9 @@ permalink: /experience/
 ---
 
 ## ML Engineer Intern
-### TereSol Pvt Ltd _(Jul – Sep 2019)_
+### TereSol Pvt Ltd 
+_(Jul – Sep 2019)_
+
 -	Implemented image and video processing solutions using OpenCV, including facial and eye detection with AR overlays.
 -	Designed interactive Python UIs for form-based data entry, CSV storage, and real-time video streaming.
 -	Integrated TensorFlow/Keras-trained object detection and counting models into live video streams.
@@ -43,7 +48,9 @@ permalink: /experience/
 ---
 
 ## Embedded Systems Intern
-### AKSA-SDS, Islamabad, Pakistan  _(Jul – Sep 2019)_
+### AKSA-SDS, Islamabad, Pakistan  
+_(Jul – Sep 2019)_
+
 -	Developed TCP protocol-based communication systems in C++.
 -	Implemented serial port data transmission and reception for embedded applications.
 
