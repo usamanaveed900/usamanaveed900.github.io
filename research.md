@@ -1,10 +1,20 @@
 ---
 layout: page
-title: "Research Interest"
-permalink: /research/
+title: ""
+permalink: /research-interest/
 ---
+<div class="section-header"><h2>Research Interests</h2></div>
 
-- Histopathological image classification (LC25000 dataset)
-- Deep learning pipelines (CNNs, DNNs, transfer learning)
-- Feature extraction, PCA, dimensionality reduction
-- Explainability and interpretability in medical AI
+Add a line
+
+<ul>
+  <li>Update Later</li>
+</ul>
+
+<div class="section-header"><h2>Current Focus</h2></div>
+
+<div class="card-box">
+<ul>
+  <li>Update later</li>
+</ul>
+</div>

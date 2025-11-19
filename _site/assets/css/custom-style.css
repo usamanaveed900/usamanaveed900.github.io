@@ -1,0 +1,40 @@
+.page-content {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  font-family: "Georgia", serif;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  color: #b30000;
+  font-weight: 600;
+}
+
+.section-header {
+  margin-top: 30px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #ddd;
+}
+
+.card-box {
+  background: #fafafa;
+  border-left: 4px solid #b30000;
+  padding: 18px 22px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.highlight-box {
+  background: #fff7f7;
+  border-left: 4px solid #b30000;
+  padding: 18px 22px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.social-icons a {
+  font-size: 22px;
+  margin-right: 12px;
+  color: #b30000;
+}

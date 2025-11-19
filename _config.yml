@@ -1,3 +1,4 @@
+title: Muhammad Usama Naveed
 description: "Software Engineer | Data Scientist"
 theme: minima
 markdown: kramdown
@@ -20,6 +21,17 @@ minima:
     linkedin: https://linkedin.com/in/usama-naveed
     google_scholar: https://scholar.google.com/citations?user=EUNrkkQAAAAJ&hl=en
     orcid: https://orcid.org/0009-0007-4791-0369
-    
+
 sass:
   style: compressed
+
+include:
+  - assets/css/custom-style.css
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
