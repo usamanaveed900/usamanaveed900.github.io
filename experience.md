@@ -8,6 +8,7 @@ permalink: /experience/
     <h2>Software Engineer — Heavy Industries Taxila</h2>
     <p><i>(22 Feb 2024 – Present)</i></p>
         <ul>
+            <li>Developed and deployed a LAN-based Project Management System featuring interactive dashboards for real-time project progress visualization, centralized task management, integrated email notifications, CI/CD pipeline implementation for streamlined deployment, and advanced workflow automation to enhance operational efficiency.</li>
             <li>Collaborating in the development and design of Fire Control Computers for artillery systems, working with cross functional teams from South Africa and Saudi Arabia.</li>
             <li>Completed a one-week advanced external ballistics training in South Africa.</li>
             <li>Developing modular C++ code in Qt Creator for serial, CAN bus, and socket communication.</li>

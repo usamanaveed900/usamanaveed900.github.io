@@ -77,9 +77,9 @@ permalink: /
 
 ## Hi There, Welcome!
 
-<p style="text-align: justify;">Results-driven Software Engineer and Data Scientist with a strong background in C++ development, machine learning, and full-stack Python solutions. Experienced in delivering high-impact projects in defense systems, automation, and AI-driven applications, collaborating with international teams, and adhering to strict industry standards such as MIL-STD-498. Adept at developing scalable, modular, and performance-optimized software across domains ranging from artillery fire control systems to machine learning solutions.</p>
+<p style="text-align: justify;">Results-driven Software Engineer and Machine Learning Engineer with extensive experience in developing high-performance software solutions spanning defense technologies, artificial intelligence, computer vision, embedded systems, and full-stack web applications. Experienced in collaborating with international cross-functional teams on mission-critical projects, including artillery fire control systems, while developing modular C++ applications, communication protocols, simulation environments, and software engineering processes aligned with modern IEEE software lifecycle standards and best practices.</p>
 
-<p style="text-align: justify;">Proficient in Qt Creator, Python, PyQt5, Django, Flask, FastAPI, TensorFlow, OpenCV, CAN bus communication, and embedded protocols. Recognized for delivering innovative and precise solutions, with a strong ability to transform projects from concept to functional implementation.</p>
+<p style="text-align: justify;">Possessing a strong foundation in Python and C++ development, with expertise in Qt, Django, Flask, FastAPI, PyQt, TensorFlow, OpenCV, and modern software engineering practices including CI/CD, workflow automation, and scalable system design. Proven ability to design and deploy end-to-end solutions ranging from machine learning models and data-driven applications to enterprise project management platforms and embedded communication systems. Passionate about applying research-driven approaches and interdisciplinary expertise to solve complex real-world challenges in software engineering and artificial intelligence.</p>
 
 ---
 
